@@ -1,0 +1,37 @@
+{
+    "name": "Tasker", 
+    "keywords": [
+        "task"
+    ], 
+    "description": "Allows to schedule tasks (your functions) to be called once, repeatedly or indefinitely in a given time frame. Features simple and familiar Javascript-like syntax. Does not use any hardware interrupts, relies on cooperative multitasking. Clean, simple and highly portable.", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/joysfera/arduino-tasker"
+    }, 
+    "version": "2.0", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "authors": [
+        {
+            "email": "petr@pstehlik.cz", 
+            "url": "https://github.com/joysfera", 
+            "maintainer": false, 
+            "name": "Petr Stehl\u00edk"
+        }
+    ], 
+    "id": 1423
+}
