@@ -35,7 +35,6 @@ ESPmanager settings(HTTP, SPIFFS, "ESPManager", defaultSSID , defaultPSK);
 
 void setup()
 {
-
 	Serial.begin(115200);
 	SPIFFS.begin();
 
